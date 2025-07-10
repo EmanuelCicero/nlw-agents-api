@@ -8,6 +8,13 @@
       "when": 1752074682006,
       "tag": "0000_charming_adam_warlock",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752094132695,
+      "tag": "0001_red_forge",
+      "breakpoints": true
     }
   ]
 }
